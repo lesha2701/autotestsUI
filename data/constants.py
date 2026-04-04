@@ -10,5 +10,6 @@ class Constants:
 
 class MainConst:
 
-    CORRECT_TEXT = "Dashboard"
+    CORRECT_TEXT_MAIN = "Dashboard"
+    CORRECT_TEXT_COURSES = "Courses"
     FAIL_TEXT = "Текст на странице не соответствует ожидаемому"
