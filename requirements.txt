@@ -1,5 +1,4 @@
-pytest
-playwright
-requests
-python-dotenv
-allure-pytest
+playwright==1.41.0
+pytest==8.0.0
+pytest-playwright==0.4.3
+allure-pytest==2.13.2
